@@ -3,6 +3,6 @@ The main purpose is to replicate SQL functions, stored procedures and triggers, 
 
 
 ## Objective:   
-1. Connect to SQL database server using Python  
+1. Connect to SQL database server using python  
 2. Create stored procudure function for dynamic SQL survey  
 3. Create trigger function for creating/altering the view whenever there is some update in dynamic survey structure.  
