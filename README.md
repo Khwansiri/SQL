@@ -1,5 +1,5 @@
 This repository is part of software engineer evaluation of Data ScienTech Institute.  
-The main purpose is to replicate SQL functions, stored procedures and triggers, for dynamic survey in Python as we are in the situation where we have no privileges to create those function in SQL server.  
+The main purpose is to replicate SQL functions, stored procedures and triggers, for dynamic survey in python as we are in the situation where we have no privileges to create those functions in SQL server directly.  
 
 
 ## Objective:   
